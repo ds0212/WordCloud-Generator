@@ -29,5 +29,5 @@ A flask based application to scrap user reviews and comments from a retail websi
 
 ### 5. Phone view.
 
-![view on phone](Screenshots/phone.)
+![view on phone](Screenshots/phone.PNG)
 ---
